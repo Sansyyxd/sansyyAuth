@@ -1,0 +1,4 @@
+name: sansyyAuth
+version: '${version}'
+main: com.sansyy.sansyyauth.SansyyAuth
+api-version: 1.19

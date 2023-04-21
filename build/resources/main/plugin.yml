@@ -1,0 +1,4 @@
+name: sansyyAuth
+version: '1.0-SNAPSHOT'
+main: com.sansyy.sansyyauth.SansyyAuth
+api-version: 1.19
